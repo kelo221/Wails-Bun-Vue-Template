@@ -15,7 +15,7 @@ function greet() {
 
 </script>
 
-<template vapor>
+<template>
   <main>
     <div class="flex justify-center items-center">
       <div class="card">
