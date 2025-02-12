@@ -4,6 +4,7 @@
 * TailwindCSS 4.0
 * DaisyUI 5
 * Vite 6
+* Go 1.24.0
 
 Run following to start a new project with this template
 ```CMD
